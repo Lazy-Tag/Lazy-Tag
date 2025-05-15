@@ -2,6 +2,8 @@
 
 ### Hi, there's LazyTag 👋
 
-- :orange_book: A student from School of Information at RUC
- 
-- :hammer: Email: 2021201780@ruc.edu.cn
+🎓 *Undergraduate student at the School of Information, Renmin University of China (RUC)*  
+📚 *Research interests: QUIC/MPQUIC, transport protocols, video streaming, and high-performance networking*
+
+### Contact Me
+📮 *Email: hbw.lazytag@gmail.com*
