@@ -3,7 +3,7 @@
 ### Hi, there's LazyTag 👋
 
 🎓 Undergraduate student at the School of Information, Renmin University of China (RUC)  
-📚 Research interests: networking system, QUIC/MPQUIC, video streaming, and high-performance networking
+📚 Research interests: networked systems, QUIC/MPQUIC, video streaming, and high-performance networking
 
 ### Contact Me
 📮 Email: hbw.lazytag@gmail.com
